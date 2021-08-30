@@ -1,0 +1,5 @@
+1. chat bot -game assistant
+2. chat bot -planner/tracker/memory bank
+3. virtual assistant -planner/tracker/memory bank
+4. game -text based
+5. game -jrpg based
